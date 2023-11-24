@@ -1,3 +1,5 @@
+mee dependancy install karaddi mokak hari aulak awoth package.json eken version balanna 
+
 meka run karala url ekata browser interface eken giyoth ehema oyata balanna pluwan uppload optioin eka tyenwa 
 
 but oyata postman eken danna oninm tikak karadarai 
